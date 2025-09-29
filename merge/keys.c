@@ -1,0 +1,2 @@
+shift+s
+shift+c
